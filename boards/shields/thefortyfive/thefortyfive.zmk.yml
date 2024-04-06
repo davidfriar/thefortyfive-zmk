@@ -1,0 +1,9 @@
+file_format: "1"
+id: thefortyfive
+name: The Forty Five
+type: shield
+url: https://github.com/davidfriar/new45
+requires: [nice_nano]
+features:
+  - keys
+siblings:
